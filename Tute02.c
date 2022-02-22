@@ -18,8 +18,8 @@ Amount = 30 x 50 + (50-30) x 40 = 2300*/
 
 #include <stdio.h>
 
-int main() 
-{
+ 
+
   int dis, amou;
    
    printf("Input Distance : ");
